@@ -8,7 +8,7 @@ author: "Bart Simpson"
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+I had many good and bad memories in Japan.
 
 ## Some great heading (h2)
 

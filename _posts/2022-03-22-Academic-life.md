@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My life in academic"
+title: "Academic life"
 categories: misc
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post content styles"
+title: "My life in Japan"
 tagline: "This post demonstrates post content styles"
 categories: junk
 image: /thumbnail-mobile.png

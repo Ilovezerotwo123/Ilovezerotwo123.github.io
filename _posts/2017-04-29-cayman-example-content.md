@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Example content"
+title: "Tennis"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

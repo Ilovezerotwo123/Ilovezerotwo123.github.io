@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tennis"
+title: "My tennis life"
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
